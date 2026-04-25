@@ -1,0 +1,17 @@
+{
+  "name": "PharmGraph",
+  "version": "1.0.0",
+  "description": "Managed Graph Intelligence for Drug Interactions",
+  "platform": "Neo4j Aura Agent",
+  "capabilities": [
+    "Text2Cypher",
+    "Similarity Search",
+    "Relationship Traversal"
+  ],
+  "project_id": "c095f5e2-d509-4db7-b848-8709ee7fcafc",
+  "agent_id": "dc8e6f99-89b8-4099-9395-5e0af1d6aad0",
+  "endpoints": {
+    "mcp": "https://mcp.neo4j.io/agent?project_id=c095f5e2-d509-4db7-b848-8709ee7fcafc&agent_id=dc8e6f99-89b8-4099-9395-5e0af1d6aad0",
+    "invoke_api": "https://api.neo4j.io/v2beta1/organizations/c095f5e2-d509-4db7-b848-8709ee7fcafc/projects/c095f5e2-d509-4db7-b848-8709ee7fcafc/agents/dc8e6f99-89b8-4099-9395-5e0af1d6aad0/invoke"
+  }
+}

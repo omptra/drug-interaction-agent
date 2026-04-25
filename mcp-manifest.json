@@ -1,0 +1,8 @@
+{
+  "name": "Drug Interaction MCP Agent",
+  "description": "A Neo4j Aura agent that reasons over 191,252 drug-drug interactions.",
+  "project_id": "c095f5e2-d509-4db7-b848-8709ee7fcafc",
+  "agent_id": "dc8e6f99-89b8-4099-9395-5e0af1d6aad0",
+  "mcp_url": "https://mcp.neo4j.io/agent?project_id=c095f5e2-d509-4db7-b848-8709ee7fcafc&agent_id=dc8e6f99-89b8-4099-9395-5e0af1d6aad0",
+  "invoke_api": "https://api.neo4j.io/v2beta1/organizations/c095f5e2-d509-4db7-b848-8709ee7fcafc/projects/c095f5e2-d509-4db7-b848-8709ee7fcafc/agents/dc8e6f99-89b8-4099-9395-5e0af1d6aad0/invoke"
+}
